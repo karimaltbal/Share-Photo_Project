@@ -1,0 +1,51 @@
+/* smart phones screens */
+
+@media (max-width: 767px)
+{
+    .navbar { width: 90%; left: 20px;}
+    .navbar .collapse{ background-color: rgba(88, 88, 88, 0.856); padding: 10px; border-radius: 20px;}
+
+
+    .header .introdaction-text { width:100%; }
+    .header .nextt , .header .prevv { top:250px;}
+    .header .nextt { right:20px; }
+    .header .prevv { left:20px; }
+
+
+    .instraction .row { display: unset;}
+
+    
+    .choice .linked a{ width: 12%; margin: 5.5px 7px; padding: 10px ;}
+    .choice .linked{ text-align: center; margin-left:0px; margin-right: 0;}
+
+
+    .upload .cointaint { left: 20%; top: 65%;}
+    .upload .cointaint input{ padding: 10px 10px; width: 200px;}
+
+
+    .testimonials .containt .img::after{ bottom: -30px; right: 110px; width: 180px; height: 150px; }
+    .testimonials .containt .info{ margin-top: 30px; }
+    .testimonials .containt .img img{ margin-left: 100px;}
+    .testimonials .containt .img .ovarlay3 { right: -30px; top: 0;}
+
+}
+/* small screens */
+
+@media (min-width: 768px) and (max-width:991px)
+{
+    .testimonials .containt .img img{ margin-left: 113px; margin-top: 200px;}
+}
+
+/* medium screens */
+
+@media (min-width: 992px) and (max-width:1199px)
+{
+    .testimonials .containt .img img{ margin-left: 150px; margin-top: 200px;}
+}
+
+/* large screens */
+
+@media (min-width:1200px)
+{
+    
+}

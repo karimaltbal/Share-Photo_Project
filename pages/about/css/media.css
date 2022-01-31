@@ -1,0 +1,28 @@
+/* smart phones screens */
+
+@media (max-width: 767px)
+{
+    .information .detalis .info i { line-height: 80px;}
+    .information .detalis .team-icons i { margin-left: 20px;  margin-bottom: 30px; }
+    .information .detalis .team-icons { margin-left: 30px;}
+}
+/* small screens */
+
+@media (min-width: 768px) and (max-width:991px)
+{
+    
+}
+
+/* medium screens */
+
+@media (min-width: 992px) and (max-width:1199px)
+{
+    
+}
+
+/* large screens */
+
+@media (min-width:1200px)
+{
+    
+}
