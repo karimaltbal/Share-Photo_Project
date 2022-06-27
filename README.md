@@ -11,7 +11,7 @@
 
 
 ## Demo
-Here is a working live demo :  [https://karimaltbal.github.io/Tourizto-WebSite/](https://karimaltbal.github.io/Share-Photo_Project/)
+Here is a working live demo :  https://karimaltbal.github.io/Share-Photo_Project/
 
 
 ## Site
